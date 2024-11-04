@@ -1,8 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class MinWork {
-
+public class FilialPiety {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String[] sInput; // 라인 별 입력을 Array로 저장
